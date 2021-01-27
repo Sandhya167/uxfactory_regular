@@ -1,0 +1,21 @@
+.one{
+    position:absolute;
+    margin-left:90px;
+    top:5px; 
+    font-size:x-large;
+}
+.two{
+    position:absolute;
+    margin-left:90px;
+    top:40px;
+    font-size:large;
+}
+.three{
+    margin-left: 90%;
+}
+i{
+    position:absolute;
+    margin-left:40px;
+    top:30px;
+    font-size:xxx-large;
+}

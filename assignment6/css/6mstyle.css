@@ -1,0 +1,57 @@
+.nav {
+    list-style-type: none;
+    padding: 15px;
+    margin: 0;
+    box-shadow: 0 8px 6px -6px #CCC;
+}
+.nav li {
+    display: inline;
+    padding: 15px 15px;
+}
+.nav li a {
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+.nav li a:hover {
+    color: red;
+}
+#logo {
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav-center {
+    position: absolute;
+    left: 30%;
+}
+.d-inline {
+    display: inline;
+}
+.card .shoes img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 5px;
+    border: 1px solid black;
+}
+.card .shoes {
+    margin: 10px;
+}
+.card {
+    margin: auto;
+    width: 70%;
+    margin-top: 15px;
+}
+.col {
+    float: left;
+    width: 32%;
+    padding: 5px;
+}
+.red-btn {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    border: 1px solid white;
+}
